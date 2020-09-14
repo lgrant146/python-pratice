@@ -1,24 +1,34 @@
-from cmath import pi
+# from cmath import pi
+#
+# import keyword
+#
+# Attlee = 7
+# Truman = 101
+# Stalin = "a number"
+#
+# print(Attlee)
+# print(Truman)
+# print(Stalin)
+#
+# Stalin = 3.14
+#
+# print(Stalin)
+#
+#
+# test = pi
+#
+# print(test)
+#
+# print(keyword.kwlist)
 
-import keyword
+print(id(5))
 
-Attlee = 7
-Truman = 101
-Stalin = "a number"
+peanut_butter = 5
 
-print(Attlee)
-print(Truman)
-print(Stalin)
+# print(id(peanut_butter))
 
-Stalin = 3.14
+crunchy = 5
 
-print(Stalin)
-
-
-test = pi
-
-print(test)
-
-print(keyword.kwlist)
+# print(id(crunchy))
 
 
