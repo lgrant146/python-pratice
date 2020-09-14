@@ -31,4 +31,8 @@ crunchy = 5
 
 # print(id(crunchy))
 
+crunchy = 7
 
+peanut_butter = crunchy
+
+print(peanut_butter)
